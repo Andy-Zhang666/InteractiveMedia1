@@ -1,0 +1,11 @@
+body {
+    background-color: darkseagreen;
+    font-family: fantasy;
+}
+img {
+    width:400px;height:265px;
+}
+#banner{
+    font-size: 40px;
+    font-weight: 600;
+}
